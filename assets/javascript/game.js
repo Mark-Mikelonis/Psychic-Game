@@ -51,6 +51,6 @@ var userGuess = " ";
 		          "<p>Guesses Left: " + guessesLeft + "</p>" +
 		          "<p>You guessed so far: " + guessArray.toString() + "</p>";
 
-		        document.querySelector("#hangman").innerHTML = html; 
+		        document.querySelector("#psychic").innerHTML = html; 
 		    }	 	 
 	         
