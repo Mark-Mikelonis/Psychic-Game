@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Psychic Game</title>
-	<script src="assets/javascript/game.js"></script>
-	<link rel="stylesheet" type="text/css" href="assets/css/reset.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-</head>
-<body>
-	<h1>The Psychic Game</h1>
-	<h2>Guess which letter I'm thinking of</h2>
-	<div id="hangman">
-		
-	</div>
-	<!-- <script type="text/javascript">
-		var userGuess = " ";
+var userGuess = " ";
 		var wins = 0;
 		var losses = 0;
 		var guessesLeft = 9;
@@ -61,6 +46,3 @@
 
 	        document.querySelector("#hangman").innerHTML = html; 
 	    }     
-	</script> -->
-</body>
-</html>
